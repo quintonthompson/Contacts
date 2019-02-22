@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contacts>
+<contact>
+	<first_name>Quinton</first_name>
+	<last_name>Thompson</last_name>
+	<phone_number>3254510690</phone_number>
+	<notes>A cool guy</notes>
+</contact>
+<contact>
+	<first_name>Bob</first_name>
+	<last_name>Patterson</last_name>
+	<phone_number>12312341</phone_number>
+	<notes>test2</notes>
+</contact>
+<contact>
+	<first_name>Terry</first_name>
+	<last_name>Morson</last_name>
+	<phone_number>12312341</phone_number>
+	<notes>test2</notes>
+</contact>
+<contact>
+	<first_name>Perry</first_name>
+	<last_name>Thomas</last_name>
+	<phone_number>245234524</phone_number>
+	<notes>asdfaf</notes>
+</contact>
+</contacts>
